@@ -1,0 +1,21 @@
+{
+	"name": "mytheme",
+	"version": "0.0.1",
+	"repository": {
+		"directory": "scripts",
+		"type": "git",
+		"url": "https://github.com/mytheme-cloud/npm.git"
+	},
+	"homepage": "https://github.com/mytheme-cloud/npm#readme",
+	"bugs": {
+		"url": "https://github.com/mytheme-cloud/npm/issues"
+	},
+	"license": "MIT",
+	"scripts": {
+		"build": "lightrix build src/**/*.ts"
+	},
+	"devDependencies": {
+		"@lightrix/config": "0.0.7",
+		"@lightrix/scripts": "0.1.4"
+	}
+}
