@@ -1,8 +1,8 @@
 {
-	"name": "mytheme",
+	"name": "create-mytheme",
 	"version": "0.0.1",
 	"repository": {
-		"directory": "scripts",
+		"directory": "scripts/",
 		"type": "git",
 		"url": "https://github.com/mytheme-cloud/npm.git"
 	},
