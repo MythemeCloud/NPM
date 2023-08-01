@@ -11,7 +11,7 @@
 		"directory": "scripts/"
 	},
 	"license": "MIT",
-	"main": "./dist/index.js",
+	"main": "./dist/Index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"prepublishOnly": "lightrix build 'src/**/*.ts'"
