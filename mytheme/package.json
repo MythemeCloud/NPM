@@ -8,7 +8,7 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/mytheme-cloud/npm.git",
-		"directory": "scripts/"
+		"directory": "Script"
 	},
 	"license": "MIT",
 	"main": "./Target/Index.js",
@@ -17,7 +17,7 @@
 		"prepublishOnly": "lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"@lightrix/config": "0.0.11",
-		"@lightrix/scripts": "1.0.7"
+		"@lightrix/configuration": "0.0.11",
+		"@lightrix/script": "1.0.7"
 	}
 }
