@@ -10,6 +10,7 @@
 		"url": "git+https://github.com/mytheme-cloud/npm.git",
 		"directory": "Script"
 	},
+	"license": "MIT",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"scripts": {
