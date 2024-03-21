@@ -25,12 +25,8 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-<<<<<<< HEAD
 		"typescript-document": "0.0.4",
 		"typescript-esbuild": "0.4.5"
-=======
-		"typescript-esbuild": "0.4.4"
->>>>>>> fbca3fcf2aa62cc7c782957e465a68585f4f01ad
 	},
 	"publishConfig": {
 		"access": "public"
