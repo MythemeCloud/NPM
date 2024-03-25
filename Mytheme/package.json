@@ -2,20 +2,20 @@
 	"name": "create-mytheme",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/mytheme-cloud/NPM#readme",
+	"homepage": "HTTPS://GitHub.Com/mytheme-cloud/NPM#readme",
 	"bugs": {
-		"url": "https://github.com/mytheme-cloud/NPM/issues"
+		"url": "HTTPS://GitHub.Com/mytheme-cloud/NPM/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/mytheme-cloud/NPM.git",
+		"url": "git+HTTPS://GitHub.Com/mytheme-cloud/NPM.git",
 		"directory": "Script"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
